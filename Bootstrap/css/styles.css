@@ -1,0 +1,62 @@
+.header{
+	background-color:#f4f4f4;
+	margin:0px 5px;
+}
+.logo{
+	width:75px;
+}
+.title{
+	padding-top:0px;
+}
+.img-social{
+	width:30px;
+	padding-top:24px;
+}
+.boton-nav{
+	background-color:#b2dfdb;
+	margin-bottom:1px;
+	border:solid #00897b 1px;
+}
+.comment_image{
+	width:20px;
+	margin-bottom:10px;
+}
+.textarea{
+	margin-top:10px;
+	width:90% !important;
+	border:solid 1px gray;
+}
+.article-image{
+	width:100%;
+	padding-top:10px;
+}
+.search-button{
+	float:right;
+	margin-top:5px;
+}
+.search{
+	margin-top:10px;
+}
+.art-1{
+	background-color:#e3f2fd;
+	margin:5px;
+}
+.art-2{
+	background-color:#e0f2f1;
+	margin:5px;
+}
+.art-3{
+	background-color:#f9fbe7;
+	margin-right:5px;
+	margin-top:5px;
+}
+.content{
+	margin-top:5px;
+}
+.links{
+	margin:0px 5px;
+}
+
+
+
+	
